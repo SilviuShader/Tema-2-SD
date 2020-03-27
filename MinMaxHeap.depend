@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585329087 source:g:\workspace\codeblocks\minmaxheap\main.cpp
+	<iostream>
+	"MinMaxHeap.h"
+
+1585328946 g:\workspace\codeblocks\minmaxheap\minmaxheap.h
+	<iostream>
+	<vector>
+	<algorithm>
+
